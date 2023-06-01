@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <character name="1">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+   <character name="2">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+   <character name="3">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+   <character name="4">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+   <character name="5">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+   <character name="6">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+   <character name="7">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+   <character name="8">
+    <maxtip>20</maxtip>
+    <patience>30</patience>
+  </character>
+  
+</xml> 

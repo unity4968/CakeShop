@@ -1,0 +1,22 @@
+﻿<linker>
+   
+  
+   <assembly fullname="System">
+   <type fullname="System.Diagnostics" preserve="all"/>
+   <type fullname="System.Diagnostics.DiagnosticsConfigurationHandler" preserve="all"/>
+   
+   </assembly>
+   
+
+   
+   <assembly fullname="System.Xml">
+    <type fullname="System.Xml" preserve="all"/>
+    <type fullname="System.Xml.Serialization" preserve="all"/>
+    <type fullname="System.Xml.Serialization.XmlSerializer" preserve="all"/>        
+  </assembly>
+  
+   <assembly fullname="System">
+     <namespace fullname="System.Security.Cryptography" preserve="all" />
+   </assembly>
+ 
+</linker>
