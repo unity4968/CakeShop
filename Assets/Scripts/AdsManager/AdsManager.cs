@@ -335,9 +335,7 @@ public class AdsManager : MonoBehaviour {
         canvasGroup_msgUnavailable.interactable = true;
         canvasGroup_msgUnavailable.blocksRaycasts = true;
         StartCoroutine(ShowMsgUnavailable(canvasGroup_msgUnavailable));
-
     }
-
     IEnumerator ShowMsgUnavailable(CanvasGroup canvasGroup_msgUnavailable)
     {
         if(canvasGroup_msgUnavailable!=null) 

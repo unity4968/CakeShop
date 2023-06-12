@@ -36,7 +36,6 @@ public class ShopManager : MonoBehaviour {
 		StartCoroutine(SetBlockAll(1f,false));
 		SoundManager.Instance.Play_ButtonClick();
 	}
-
 	public void ShowPopUpShop()
 	{
 		if(BlockAll == null) BlockAll = GameObject.Find("ForegroundBlockAll").GetComponent<CanvasGroup>();
